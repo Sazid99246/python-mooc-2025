@@ -1,4 +1,3 @@
-# Write your solution here
 def first_word(sentence):
     return sentence.split()[0]
 
